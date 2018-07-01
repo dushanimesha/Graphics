@@ -1,0 +1,3 @@
+# Graphics
+opencv
+sleep detection
